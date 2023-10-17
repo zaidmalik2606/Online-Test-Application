@@ -1,0 +1,14 @@
+.navbar{
+  background: #11cdd4;
+}
+
+.text-uppercase{
+  color:  black;
+  font-size: 25px;
+  font-weight: normal;
+}
+
+img{
+  border-radius: 50%;
+  margin-right: 10px;
+}

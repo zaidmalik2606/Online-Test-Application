@@ -1,0 +1,102 @@
+{
+  "questions": [
+    {
+      "questionText": "The computer malware that disguises users by representing itself as legitimate software/program is known as... ",
+      "options": [
+        {
+          "text": "Virus"
+        },
+        {
+          "text": "Worms"
+
+        },
+        {
+          "text": "Spyware"
+        },
+        {
+          "text": "Trojans",
+           "correct": true
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "Which among the following cities produces highest e-waste in India?",
+      "options": [
+        {
+          "text": "Delhi"
+        },
+        {
+          "text": "Mumbai",
+          "correct": true
+        },
+        {
+          "text": "Chennai"
+
+        },
+        {
+          "text": "Bengaluru"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "If you need to select all the contents of MS Word, which command will you give Ctrl +?",
+      "options": [
+        {
+          "text": "V"
+        },
+        {
+          "text": "C"
+        },
+        {
+          "text": "A",
+          "correct": true
+        },
+        {
+          "text": "Z"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "To store data and perform calculation, computer uses ……………………… number system.",
+      "options": [
+        {
+          "text": "Binary",
+          "correct": true
+        },
+        {
+          "text": "Hecxadecimal"
+        },
+        {
+          "text": "Octadecimal"
+        },
+        {
+          "text": "Decimal"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "Who among the following had first invented the first electronic digital computer?",
+      "options": [
+        {
+          "text": "Greg Chesson"
+
+        },
+        {
+          "text": "Charles Babbage"
+        },
+        {
+          "text": "John Vincent Atanasoff",
+           "correct": true
+        },
+        {
+          "text": "Jack Dorsey"
+        }
+      ],
+      "explanation": ""
+    }
+  ]
+}
